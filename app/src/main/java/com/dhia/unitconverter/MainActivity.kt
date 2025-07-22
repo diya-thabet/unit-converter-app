@@ -44,7 +44,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun UnitConverter(modifier: Modifier = Modifier) {
     Column(
-        // the design
+        // the design code is this
         modifier = Modifier.fillMaxSize(),
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally
