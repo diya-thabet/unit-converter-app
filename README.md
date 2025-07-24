@@ -15,7 +15,7 @@ A simple and stylish unit converter Android application built using **Jetpack Co
 - 💡 Built with **Jetpack Compose** and **Material3**
 
 ## 📸 Screenshots
-![Main Screen](./main.png)
+![Main Screen](./main.jpg)
 
 
 ## 🛠️ Tech Stack
